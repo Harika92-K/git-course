@@ -1,0 +1,10 @@
+git config --global user.name "Harika"
+//create a configuration details like username,email etc
+git --version
+//To check the version which is installed in our system
+git init
+//creates an empty local repo
+git add <filename>
+//adds the file to the staging area
+git commit -m "commit message"
+//commits the files to the local repo and maintains commit history
