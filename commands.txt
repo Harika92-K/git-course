@@ -8,3 +8,7 @@ git add <filename>
 //adds the file to the staging area
 git commit -m "commit message"
 //commits the files to the local repo and maintains commit history
+git tag
+//list all the tags available
+git push origin main
+//pushes the changes to the remote repository
