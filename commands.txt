@@ -12,3 +12,9 @@ git tag
 //list all the tags available
 git push origin main
 //pushes the changes to the remote repository
+git pull origin main
+//getting the changes from remote repository
+git branch
+//list all the available branches in a repo
+git checkout -b feature
+//creates a new branch and jump to feature
