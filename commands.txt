@@ -18,3 +18,5 @@ git branch
 //list all the available branches in a repo
 git checkout -b feature
 //creates a new branch and jump to feature
+git switch -c feature2
+//creates a new branch and jump to feature2
