@@ -1,1 +1,2 @@
 this is the sample file using to test rebase option in git
+rebase is used to maintain a smooth flow of commits
